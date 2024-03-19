@@ -1,4 +1,5 @@
-Student Management System Desktop Application
+
+
 This is a desktop application built using WPF (Windows Presentation Foundation) and MySQL for managing student information efficiently.
 
 Features
